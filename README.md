@@ -23,14 +23,6 @@ Design: Photoshop, Figma, Procreate
 
 📁 Project Description
 
-Describe what this specific project does:
+What this specific project does:
 
-What problem it solves
-
-Who it’s for
-
-Key features
-
-Example:
-
-This project is an AI-enhanced website that generates personalized art previews using an integrated AI model. The site includes dynamic animations, a clean UI, and customizable user interactions.
+This project is a forum built with the help of blackbox ai and chatgpt
